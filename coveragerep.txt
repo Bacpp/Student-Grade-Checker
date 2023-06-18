@@ -1,0 +1,6 @@
+Name                                          Stmts   Miss  Cover
+-----------------------------------------------------------------
+Desktop\COS340\PROJECT\StudentManagement.py      46     46     0%
+Desktop\COS340\PROJECT\student.py                87     20    77%
+-----------------------------------------------------------------
+TOTAL
